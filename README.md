@@ -10,4 +10,4 @@ This web dashboard is for Friends Series from [Friends Dataset](https://www.kagg
 
 3. All seasons have average IMDB rating at least 8,2
 
-This is a simple web dashboard and it will be more interesting if putted some visualization like biggest character roles by screen time, or stories by places. But, I hope this web dashboard interactive enough to explain the informations. For further informations, please check in [here](https://datastudio.google.com/s/lIe10TW9CgI).
+This is a simple web dashboard and it will be more interesting if putted some visualization like biggest character roles by screen time, or stories by places. But, I hope this web dashboard interactive enough to explain the informations. If you want to see the web dashboard, you can check [here](https://datastudio.google.com/s/lIe10TW9CgI).
